@@ -2,3 +2,12 @@
 h1 {
   color: #0025FF;
 }
+.paragraph1 {
+  background-color: aqua;
+}
+.paragraph2{
+  background-color: blueviolet;
+}
+body {
+  background-color: gray;
+}
