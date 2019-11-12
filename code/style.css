@@ -1,13 +1,13 @@
 /* Example styling of a h1 element */
 h1 {
-  color: #0025FF;
+  color: white;
 }
 .paragraph1 {
-  background-color: aqua;
+  color: rgb(214, 58, 175);
 }
 .paragraph2{
-  background-color: blueviolet;
+  color: rgb(214, 58, 175);
 }
 body {
-  background-color: gray;
+  background-color: aqua;
 }
