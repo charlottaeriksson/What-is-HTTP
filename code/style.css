@@ -9,5 +9,10 @@ h1 {
   color: rgb(214, 58, 175);
 }
 body {
-  background-color: aqua;
+  background-color: rgb(94, 92, 92);
+}
+a {
+  font-weight: bold;
+  text-align: center;
+  color: aquamarine;
 }
